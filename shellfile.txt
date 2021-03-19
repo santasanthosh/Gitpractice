@@ -1,0 +1,1 @@
+this is a seconf file from shell promt option
